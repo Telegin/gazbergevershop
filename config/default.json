@@ -1,9 +1,10 @@
 {
   "database": {
-    "host": "localhost",
-    "port": 5430,
-    "username": "postgres",
-    "password": "DataBerg4ever",
-    "database": "gazbergevershop"
+    "host": "c5p86clmevrg5s.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com",
+    "port": 5432,
+    "username": "u8c2q83s4msu70",
+    "password": "p4367792ab0428d1643074c353ec2c2dc67c879cacdc702867b836a27d1ec7b55",
+    "database": "d9lbhlebdrbshc",
+    "ssl": true
   }
 }
