@@ -10,7 +10,8 @@
     "start:debug": "evershop start --debug",
     "dev": "evershop dev",
     "user:create": "evershop user:create",
-    "user:changePassword": "evershop user:changePassword"
+    "user:changePassword": "evershop user:changePassword",
+    "migrate": "npx sequelize-cli db:migrate"
   },
   "author": "",
   "license": "ISC",
