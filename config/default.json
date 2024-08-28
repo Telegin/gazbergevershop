@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5430,
+    "username": "postgres",
+    "password": "DataBerg4ever",
+    "database": "gazbergevershop"
+  }
+}
